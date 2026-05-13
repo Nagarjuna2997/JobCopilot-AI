@@ -1,0 +1,68 @@
+Privacy Policy
+
+Effective date: May 12, 2026
+
+JobCopilot AI ("the app") is developed and provided by Nagarjuna Reddy. This Privacy Policy explains how the app handles information.
+
+1. Information the app stores
+JobCopilot AI stores the information you enter in the app on your device, including:
+- job applications and job descriptions
+- profile details, resume content, skills, education, work history, projects, and notes
+- interview notes and follow-up reminders
+- chat history within the app
+- generated resumes, cover letters, recruiter replies, cold emails, and interview prep content
+- your selected AI provider setting
+
+If you use AI features, your API key is stored in Apple Keychain on your device.
+
+2. AI features
+If you choose to use AI features, the content needed to generate results may be sent directly from your device to the AI provider you selected, such as OpenAI or Anthropic. This may include:
+- your profile information
+- job descriptions
+- recruiter emails that you paste into the app
+- chat prompts
+- related job search content needed to generate responses
+
+The developer does not route this data through a separate backend server.
+
+3. How information is used
+Your information is used only to provide app functionality, including:
+- tracking your job applications
+- generating AI-assisted job search content
+- saving notes and reminders
+- showing job search statistics
+- exporting documents and job data when you request it
+
+4. Notifications
+If you allow notifications, JobCopilot AI uses local notifications on your device for reminders such as follow-ups, stale applications, weekly summaries, and monthly summaries. Notification data is handled locally on your device.
+
+5. Data sharing
+JobCopilot AI does not sell your personal information.
+JobCopilot AI does not use advertising SDKs.
+JobCopilot AI does not use third-party analytics or tracking tools.
+
+Data is only shared with third-party AI providers when you choose to use AI-powered features.
+
+6. Data storage
+Your app data is stored locally on your device using Apple system storage technologies. Generated export files may also be created locally on your device when you choose to export or share them.
+
+7. Data retention and deletion
+You control your data inside the app. You can edit or delete jobs, profiles, notes, chat history, and saved API keys at any time from the app. If you delete the app, locally stored app data is removed from your device, subject to Apple’s system behavior.
+
+8. Security
+The app uses Apple-provided security features, including Keychain for stored API keys. While reasonable measures are used to protect your information, no method of electronic storage or transmission can be guaranteed to be completely secure.
+
+9. Third-party services
+If you use AI features, your use of those services is also subject to the privacy policy and terms of the selected AI provider.
+
+10. Children’s privacy
+JobCopilot AI is not directed to children under 13.
+
+11. Changes to this Privacy Policy
+This Privacy Policy may be updated from time to time. Any updates will be reflected on this page with a revised effective date.
+
+12. Contact
+If you have questions about this Privacy Policy, please contact:
+
+Nagarjuna Reddy
+nagarjunareddy2997@icloud.com
